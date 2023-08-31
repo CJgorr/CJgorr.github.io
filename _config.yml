@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+
+title: Yu Du's Group
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,9 +25,20 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+theme                  : "minimal-mistakes-jekyll"
+#theme                   : "jekyll-theme-so-simple"
+minimal_mistakes_skin    : "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+
+
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -58,7 +70,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Yu Du (杜宇)"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -99,6 +111,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +119,53 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      header_type: "base"
+      include_on_search   : false
+      cloudtag_url        : "/tags"       #This is where the link on tags would redirect
+      cloudcategory_url   : "/categories" #This is where the link on categories would redirect
+      header:
+        image: /assets/images/head.jpg
+        #overlay_image: /assets/images/purple.jpeg
+        #overlay_filter: rgba(0, 0, 0, 0.3)
+        #caption: "图片描述或来源（可选）"
+        #actions:
+        #  - label: "阅读更多"
+        #    url: "#article-content"
+
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     header_type       : "post"
+  #     include_on_search : true
+  #     include_on_feed   : true
+  #     show_date         : true
+  #     show_related      : true
+  #     show_bottomnavs   : true
+  #     show_sociallinks  : true
+  #     show_comments     : true
+  #     show_tags         : true
+  #     show_categories   : true
+  #     show_author       : true
+  #     show_toc          : false
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "demo"
+  #   values:
+  #     header_type       : "hero"
+  #     show_related      : true
+  #     show_bottomnavs   : true
+  #     show_sociallinks  : true
+  #     include_on_search : true
+  #     include_on_feed   : true
 
 category_archive:
   type: liquid
