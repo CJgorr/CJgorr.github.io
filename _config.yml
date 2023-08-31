@@ -29,7 +29,7 @@ search: true
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 theme                  : "minimal-mistakes-jekyll"
 #theme                   : "jekyll-theme-so-simple"
 minimal_mistakes_skin    : "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -130,7 +130,7 @@ defaults:
       cloudtag_url        : "/tags"       #This is where the link on tags would redirect
       cloudcategory_url   : "/categories" #This is where the link on categories would redirect
       header:
-        image: /assets/images/head.jpg
+        image: /assets/images/head1.jpg
         #overlay_image: /assets/images/purple.jpeg
         #overlay_filter: rgba(0, 0, 0, 0.3)
         #caption: "图片描述或来源（可选）"
