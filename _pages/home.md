@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  image: /assets/images/head-home2.jpg
+  image: /assets/images/head2.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
@@ -33,14 +33,14 @@ feature_row:
     btn_class: "btn--inverse"
     btn_label: "Learn more"      
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/home-s1.png
+    image_path: assets/images/home-s1.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/home-s2.png
+    image_path: assets/images/home-s2.png
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/home-s3.png
+    image_path: assets/images/home-s3.png
     alt: "placeholder image 3"
 ---
 {% include feature_row %}
