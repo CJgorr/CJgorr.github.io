@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  image: /assets/images/head-home1.jpg
+  image: /assets/images/head-home2.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
