@@ -20,16 +20,21 @@ foo:
 
 # main links
 main:
+
   - title: "News"
-    url: /docs/quick-start-guide/
+    url: /news/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Sharing"
+    url: /sharing/
   - title: "About us"
     url: /about/
-  - title: "Publications"
-    url: /year-archive/
   - title: "Group members"
-    url: /collection-archive/
+    url: /group/
   - title: "Join us"
-    url: /terms/
+    url: /join/
 
 
 # documentation links

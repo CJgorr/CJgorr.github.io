@@ -2,11 +2,11 @@
 title:  "DU Group Page Published"
 classes: wide
 search: false
+categories: 
+  - Jekyll
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
-categories: 
-  - Jekyll
 last_modified_at: 2023-10-25T08:06:00-05:00
 ---
 
