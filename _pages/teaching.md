@@ -1,22 +1,27 @@
 ---
-layout: home
 title: "Teaching"
 permalink: /teaching/
+tagline: "Here are the videos about **Dynamic meteorology** and **Radar meteorology**"
+header:
+  overlay_color: "#333"
 author_profile: false
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
-toc: true
-classes: wide
+layout: splash
+hidden: true
 ---
 
-## 2023
+**Dynamic meteorology**  
+[动力气象学-梯度风](/sharing#动力气象学-梯度风)  
+
+**Radar meteorology**  
+[雷达气象学-第二章](/sharing#雷达气象学-第二章)  
 
 
-**<font color="red" size=4>2023.9.30</font>**  
-<font size=4>The article</font> **<font size=4>“Offshore migration of summer monsoon low-level jet on a diurnal scale”</font>** <font size=4>has been accepted by GRL (Yu Du's solo work).</font>
+### 动力气象学-梯度风
+{% include video id="BV1ou41177Lo" provider="bilibili" danmaku="0"%}
 
-**2023.9.30**  
-: The article **“Offshore migration of summer monsoon low-level jet on a diurnal scale”** has been accepted by GRL (Yu Du's solo work).
-{: .small}
-{: .small}
+## Radar meteorology
+
+### 雷达气象学-第二章
+{% include video id="BV1iD4y1g734" provider="bilibili" danmaku="0"%}
+
+

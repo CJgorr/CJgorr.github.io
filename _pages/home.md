@@ -43,8 +43,7 @@ gallery:
     image_path: assets/images/home-s3.png
     alt: "placeholder image 3"
 ---
-{% include feature_row %}
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+[![foo](/assets/images/research_v1.png)](/research/)
+[![foo](/assets/images/news_v2.png)](/news/)
+[![foo](/assets/images/pub_v1.png)](/publications/)
 

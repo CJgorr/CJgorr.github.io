@@ -1,56 +1,33 @@
 ---
 permalink: /join/
-title: "Join us"
+title: "Welcome to DU group!!!"
 last_modified_at: 2017-10-20T12:42:38-04:00
-toc: true
+toc: false
+classes: wide
 ---
+![foo](/assets/images/about/about-page-2.jpeg)
 
-## Welcome to DU group
+Welcome to join our research team if you are interested in engaging in research related to mesoscale meteorology. We can use various methods, including:
+* observation analysis (ground-based and upper-air stations, radar, satellite, radiosonde, etc.)
+* mesoscale meteorological models (such as WRF)
+* ensemble forecasting
+* data assimilation
+* idealized models (such as CM1 or WRF)
+* theoretical modeling (theoretical derivation)  
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+to explore the dynamical mechanism and forecasting of heavy rainfall and severe convective storms.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+## For Postdoctoral fellows and Researchers
+We constantly welcome applications for postdoctoral fellows, specially appointed researchers, and associate researchers throughout the year.   
 
-### Log Files
+We offer highly competitive salary packages, with an annual salary of 200,000 RMB or more for postdoctoral fellows and associate researchers, and 300,000 RMB or more for specially-appointed researchers. Our research environment is relax and flexible.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+## For doctoral and master students 
+We recruit 2-3 doctoral and master students every year.    
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+Including those pursuing direct Ph.D., recommended admission, and those who pass the national entrance examination. Our research group has a strong academic atmosphere, where members assist each other, and we dedicated to providing students with opportunities to take part in domestic and international conferences and exchanges.
 
-All of this information is not linked to anything that is personally identifiable.
+## For undergraduate students 
+We recruit several groups for research-oriented students who is form the second or third grade every year. We also welcome students who are preparing their undergraduate thesis projects.   
 
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
-## Disclosure Policy
-
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+(Warmly welcome students aspiring to publish academic papers during their undergraduate studies.)
