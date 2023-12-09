@@ -8,9 +8,11 @@ layouts_gallery:
 last_modified_at: 2023-12-09T11:59:26-04:00
 toc: true
 ---
+![foo](/assets/images/about/group_photo_1.jpeg)
+Group photo in Yin Chuan, August 2023. (first row, left to right) Shimin Yang, Yuhan Luo, Yu Du, Dong Fu, Xuan Zhou, Erqi Zheng. (second row, left to right) Yican Lin, Junying Fang, Zijian Chen and Hongpei Yang.
+{: .small}
 
-
-{% include gallery id="layouts_gallery" caption="Group photo in Hang Zhou, August 2022. (left to right) Yuhan luo, Junying Fang, Chuying Mai, Hongpei Yang, Yu Du, Yian Shen, Dong Fu, Xuan Zhou and Zijian Chen." %}
+{% include gallery id="layouts_gallery" caption="Group photo in Hang Zhou, August 2022. (left to right) Yuhan Luo, Junying Fang, Chuying Mai, Hongpei Yang, Yu Du, Yian Shen, Dong Fu, Xuan Zhou and Zijian Chen." %}
 
 
 ## Dr. Yu Du（杜宇）  
@@ -18,6 +20,7 @@ toc: true
 **School of Atmospheric Sciences, Sun Yat-sen university, Zhuhai, China**
 {: .small}
 ![foo](/assets/images/about/du1.png)
+
 
 [View Personal Profile]({{ "/people_du/" | relative_url }}){: .btn .btn--primary}
 [<i class="fas fa-download"></i> Download CV](https://atmos.sysu.edu.cn/sites/atmos.prod1.dpcms4.sysu.edu.cn/files/inline-files/CV_English_YuDu_2023_0.pdf){: .btn .btn--primary}
