@@ -25,14 +25,14 @@ main:
     url: /news/
   - title: "Publications"
     url: /publications/
+  - title: "Research"
+    url: /Reseach/
   - title: "Teaching"
     url: /teaching/
   - title: "Sharing"
     url: /sharing/
   - title: "About us"
     url: /about/
-  - title: "Group members"
-    url: /group/
   - title: "Join us"
     url: /join/
 
@@ -135,4 +135,17 @@ sidebar-sample:
       - title: "Child Page D1"
         url: /
       - title: "Child Page D2"
+        url: /
+
+# sidebar navigation for news
+sidebar-news:
+  - title: "2023"
+    children:
+      - title: "2023-09"
+        url: /news/#2023-09
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
         url: /

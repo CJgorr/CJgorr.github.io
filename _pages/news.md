@@ -3,11 +3,11 @@ title: "News"
 permalink: /news/
 author_profile: false
 sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
-toc: true
+  title: "On this pages"
+  nav: sidebar-news
+toc: false
+classes: wide
 ---
-
 ## 2023-09
 
 **<font color="red" size=4>2023.9.30</font>**  
