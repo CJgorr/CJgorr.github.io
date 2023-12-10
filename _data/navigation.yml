@@ -23,10 +23,10 @@ main:
 
   - title: "News"
     url: /news/
-  - title: "Publications"
-    url: /publications/
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "Sharing"
