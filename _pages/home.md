@@ -45,5 +45,5 @@ gallery:
 ---
 [![foo](/assets/images/research_v1.png)](/research/)
 [![foo](/assets/images/news_v2.png)](/news/)
-[![foo](/assets/images/pub_v1.png)](/publications/)
+[![foo](/assets/images/pub_v2.jpg)](/publications/)
 

@@ -52,7 +52,7 @@ Gravity waves are ubiquitous phenomenon observed in the atmosphere which can be 
 We will use numerical models and idealized simulations deeply discuss the wave-convection interaction and the role of moist processes in generating and propagating gravity waves.
 {: .small}
 
-![foo](/assets/images/research-page-1.png)
+![foo](/assets/images/research-page-4.jpg)
 
 ### 2. Diurnal Cycle of Rainfall and Winds
 
