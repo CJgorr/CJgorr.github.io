@@ -7,7 +7,7 @@ sidebar:
   nav: sidebar-pub
 toc: false
 classes: wide
-link: https://www.researchgate.net/profile/YU_DU
+link: https://www.researchgate.net/profile/Yu-Du-48
 ---
 
 ## 2023
