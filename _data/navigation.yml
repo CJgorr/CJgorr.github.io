@@ -139,8 +139,32 @@ sidebar-sample:
 
 # sidebar navigation for news
 sidebar-news:
-  - title: "2023"
+  - title: "Timeline"
     children:
+      - title: "2024-10"
+        url: /news/#2024-10
+      - title: "2024-09"
+        url: /news/#2024-09
+      - title: "2024-08"
+        url: /news/#2024-08
+      - title: "2024-07"
+        url: /news/#2024-07
+      - title: "2024-06"
+        url: /news/#2024-06
+      - title: "2024-05"
+        url: /news/#2024-05
+      - title: "2024-04"
+        url: /news/#2024-04
+      - title: "2024-03"
+        url: /news/#2024-03
+      - title: "2024-01"
+        url: /news/#2024-01
+      - title: "2023-12"
+        url: /news/#2023-02
+      - title: "2023-11"
+        url: /news/#2023-11
+      - title: "2023-10"
+        url: /news/#2023-10
       - title: "2023-09"
         url: /news/#2023-09
       - title: "2023-08"
@@ -182,8 +206,10 @@ sidebar-news:
 
 # sidebar navigation for publications
 sidebar-pub:
-  - title: "2023"
+  - title: "Years"
     children:
+      - title: "2024"
+        url: /publications/#2024
       - title: "2023"
         url: /publications/#2023
       - title: "2022"
