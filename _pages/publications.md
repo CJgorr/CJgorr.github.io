@@ -11,7 +11,7 @@ link: https://www.researchgate.net/profile/Yu-Du-48
 ---
 #Corresponding Author
 
-##2024
+## 2024
 
 Du, Y.#, R. Rotunno, Z. Chen, H. Yang, 2024: A Linear Theory for Periodic Convectively Forced Gravity Waves near a Coastline, J. Atmos. Sci., 81, 1271–1288, https://doi.org/10.1175/JAS-D-23-0173.1. [PDF] [对流性重力波线性理论模型]
 {: .small}
