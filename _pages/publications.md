@@ -9,10 +9,36 @@ toc: false
 classes: wide
 link: https://www.researchgate.net/profile/Yu-Du-48
 ---
+#Corresponding Author
+
+##2024
+
+Du, Y.#, R. Rotunno, Z. Chen, H. Yang, 2024: A Linear Theory for Periodic Convectively Forced Gravity Waves near a Coastline, J. Atmos. Sci., 81, 1271–1288, https://doi.org/10.1175/JAS-D-23-0173.1. [PDF] [对流性重力波线性理论模型]
+{: .small}
+Du, Y.#, and  S. Yang, 2024: The Relationship Scenarios Between Boundary Layer Jet and Coastal Heavy Rainfall during the Pre-Summer Rainy Season of South China, Journal of Meteorological Research,（in press）
+{: .small}
+Yang H., Y. Du#, Z. Chen, and J. Fang, 2024: Could Developing Frontal Rainfall Influence Warm-sector Rainfall? Geophys. Res. Lett. 51, e2024GL110430. https://doi.org/10.1029/2024GL110430 [PDF] [锋面暴雨通过对流性重力波影响暖区暴雨]（学生一作）
+{: .small}
+Chen Z. and Y. Du#, 2024: The Influence of Topography on the Diurnal Rainfall Propagation in the Bay of Bengal, J. Atmos. Sci.,81, 1019–1032, https://doi.org/10.1175/JAS-D-23-0225.1 [PDF] [地形对降水离岸传播的影响机制]（学生一作）
+{: .small}
+Yang H., and Y. Du#, 2024: Difference between Upshear and Downshear Propagating Waves Associated with the Development of Squall lines, Mon. Wea. Rev., 152, 1399–1420 https://doi.org/10.1175/MWR-D-23-0109.1 [PDF] [对流性重力波传播不对称性影响飑线的发展]（学生一作）
+{: .small}
+Zhou X., Y. Du#, J. Wei#, Z. Chen, H. Yang, 2024: Statistical characteristics of Wavelike Banded Convection Associated with Ducted Gravity Waves over Southern China, Geophys. Res. Lett. 51, e2024GL112027. [PDF] [华南波状带状对流的统计研究]（学生一作）
+{: .small}
+Zhang, X., Y. Luo, and Y. Du#, 2024: Observation of Boundary-Layer Jets in the Northern South China Sea by a Research Vessel" Remote Sensing 16, 3872. https://doi.org/10.3390/rs16203872 [PDF] [中大科考船观测南海边界层急流]（学生一作）
+{: .small}
+Hailong, Shu, Fan Zhang#, Yu Du#, Yue Wang, Huichuang Guo, Zhen Song, Qinghong Zhang . 2024: Characteristics and Formation Mechanisms of Low‐Level Jets in Northeastern China. Adv. Atmos. Sci., https://doi.org/10.1007/s00376-024-3209-8 
+{: .small}
+Yuanping He, Shaojia Fan#, Yiming Wang, Yiming Liu, Xiao Lu, Haolin Wang, Cheng He, Chuying Mai, Yu Du#, 2024: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China, Science of The Total Environment, 927, 171874. https://doi.org/10.1016/j.scitotenv.2024.171874 [PDF] [低空急流影响臭氧分布]
+{: .small}
+Zhang, J., Bai, L., Li, Z., Du, Y., & Zhang, S, 2024: High-Frequency Microbarograph-Observed Pressure Variations Associated with Gust Fronts during an Extreme Rainfall Event. Remote Sensing, 16(1), 101. 
+{: .small}
+Sun, R., Lu, X., Gao, M., Du, Y., Lin, H., Wright, C., ... & Yin, K, 2024: The impacts of shipping emissions on lightning: Roles of aerosol-radiation-interactions and aerosol-cloud-interactions. Environmental Research Letters. 19(3), 034038.
+{: .small}
+Xin, R., Li, X. X.#, Du, Y., Li, M., & Chew, L. W. (2024). Simulation of a cold spell in Guangdong-Hong Kong-Macao Greater Bay Area with WRF: Sensitivity to PBL schemes. Atmospheric Research, 107640.
+{: .small}
 
 ## 2023
-
-#Corresponding Author
 
 Du, Y.# , 2023: Offshore migration of summer monsoon low-level jet on a diurnal scale. Geophys. Res. Lett., 50, e2023GL103840. https://doi. org/10.1029/2023GL103840 [PDF] [低空急流日变化离岸传播]（独作）
 {: .small}
