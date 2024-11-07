@@ -10,142 +10,142 @@ classes: wide
 ---
 ## 2024-10
 
-2024.10.29： 获批广东省基础与应用基础研究基金自然科学基金面上项目。
+2024.10.29: Received approval for the General Program of Natural Science Foundation from Guangdong Basic and Applied Basic Research Foundation.
 {: .small}
-2024.10.23 受邀在国家气象中心做有关重力波的学术报告。
+2024.10.23: Invited to give an academic presentation on gravity waves at the National Meteorological Center.
 {: .small}
-2024.10.22 受邀在中科院大气物理所做有关冷池的学术报告。
+2024.10.22: Invited to give an academic presentation on cold pools at the Institute of Atmospheric Physics, Chinese Academy of Sciences.
 {: .small}
-2024.10.22 有关南海边界层急流与华南海岸降水关系的文章被JMR发表，并收录在《大气科学研究与应用百年进展纪念文集》。
+2024.10.22: Paper on the relationship between South China Sea boundary layer jet and South China coastal precipitation published in JMR and included in "Centennial Progress in Atmospheric Science Research and Applications Anthology".
 {: .small}
-2024.10.20-21 参加武汉举办的暴雨东湖论坛，并做特邀报告。荣获2020-2024暴雨科技重大进展（排第二）。
+2024.10.20-21: Attended the Heavy Rainfall East Lake Forum in Wuhan and delivered an invited presentation. Received recognition for Major Scientific and Technological Progress in Heavy Rainfall Research 2020-2024 (ranked second).
 {: .small}
-2024.10.18 恭喜张曦允（本科生）和罗雨涵（博士生）有关中大科考船观测南海边界层急流的文章在Remote sensing发表
+2024.10.18: Congratulations to Zhang Xiyun (undergraduate) and Luo Yuhan (Ph.D. student) on their publication in Remote Sensing about South China Sea boundary layer jet observations from SYSU research vessel.
 {: .small}
-2024.10.13-18 组团（我+7位学生）参加韩国举办的ICMCS-16国际会议，恭喜杨洪沛荣获最佳学生海报奖。
+2024.10.13-18: Led a team (myself + 7 students) to attend ICMCS-16 international conference in Korea. Congratulations to Yang Hongpei for winning the Best Student Poster Award.
 {: .small}
-2024.10.8 恭喜周萱（硕士生）有关华南波状带状对流统计文章在GRL发表
+2024.10.8: Congratulations to Zhou Xuan (Master's student) on publishing a statistical study of South China banded convection in GRL.
 {: .small}
 
 ## 2024-09
 
-2024.9.17 受邀担任 Journal of the Atmospheric Sciences的Associate Editor
+2024.9.17: Appointed as Associate Editor for Journal of the Atmospheric Sciences.
 {: .small}
-2024.9.12 访问北京城市气象研究院，并做学术报告和经验分享
+2024.9.12: Visited Beijing Urban Meteorological Research Institute and gave an academic presentation and experience sharing session.
 {: .small}
-2024.9.11-12 参加首届全国北方暴雨论坛，并做大会特邀报告
+2024.9.11-12: Participated in the First National Northern China Heavy Rainfall Forum and delivered a keynote speech.
 {: .small}
 
 ## 2024-08
 
-2024.8.28-29 作为召集人参加2024气象前沿科技青年报告汇，并做大会特邀报告
+2024.8.28-29: Served as convener and delivered a keynote speech at the 2024 Meteorological Frontier Technology Youth Report Meeting.
 {: .small}
-2024.8.27 访问河海大学，并做报告
+2024.8.27: Visited Hohai University and gave a presentation.
 {: .small}
-2024.8.24 获国家自然科学基金面上项目资助：复杂地形影响下对流性重力波的活动特征及其在对流发生发展中的作用
+2024.8.24: Received National Natural Science Foundation of China General Program funding for research on "Characteristics of Convective Gravity Waves under Complex Terrain and Their Role in Convection Development".
 {: .small}
-2024.8.20-22 访问香港科技大学石晓明教授，并做seminar
+2024.8.20-22: Visited Professor Shi Xiaoming at Hong Kong University of Science and Technology and gave a seminar.
 {: .small}
-2024.8.13 受邀参加中国气象学会百年风云讲坛第二十二期：致灾致命的强对流天气：机理与预警，做华南暖区暴雨的物理机制的报告
+2024.8.13: Invited to participate in the 22nd China Meteorological Society Centennial Forum on "Destructive and Deadly Severe Convective Weather: Mechanisms and Warning", presented on physical mechanisms of heavy rainfall in South China warm sector.
 {: .small}
 
 ## 2024-07
 
-2024.7.20 恭喜杨洪沛有关锋面暴雨通过对流性重力波影响暖区暴雨的文章被GRL接收发表
+2024.7.20: Congratulations to Yang Hongpei on GRL's acceptance of paper on frontal heavy rainfall affecting warm sector precipitation through convective gravity waves.
 {: .small}
-2024.7.9-12 访问兰州大学大气科学学院，作暑期学校报告，学术报告和教学分享报告。
+2024.7.9-12: Visited School of Atmospheric Sciences at Lanzhou University, gave summer school lectures, academic presentations, and teaching experience sharing.
 {: .small}
-2024.7-2024-10 博士生罗雨涵在加拿大麦吉尔大学联合培养（合作导师：Daniel Kirshbaum）
+2024.7-2024.10: Ph.D. student Luo Yuhan visited McGill University, Canada (Co-supervisor: Daniel Kirshbaum).
 {: .small}
-2024.7.2 加拿大麦吉尔大学刘杉河博士生组里进行交流
+2024.7.2: Liu Shanhe from McGill University visited SYSU.
 {: .small}
-2024.7.1 美国Oklahoma大学胡小明老师访问中大
+2024.7.1: Professor Hu Xiaoming from University of Oklahoma visited SYSU.
 {: .small}
 
 ## 2024-06
 
-2024.6.23-28 参加在韩国平昌举办的AOGS年会，并做两个特邀报告，主持一个session，学生罗雨涵和杨诗敏做口头报告
+2024.6.23-28: Attended AOGS annual meeting in Pyeongchang, Korea, delivered two invited talks, chaired one session. Students Luo Yuhan and Yang Shimin gave oral presentations.
 {: .small}
 
 ## 2024-05
 
-2024.5.11-6.15 短期访问美国Oklahoma大学，与Ming Xue开展合作
+2024.5.11-6.15: Short-term visit to University of Oklahoma, collaborating with Ming Xue.
 {: .small}
-2024.5.4-10 参加在美国长滩举办的AMS飓风与热带气象会议，并做口头报告
+2024.5.4-10: Attended AMS Hurricane and Tropical Meteorology Conference in Long Beach, USA, and gave an oral presentation.
 {: .small}
 
 ## 2024-04
 
-2024.4.6 有关对流性重力波线性理论模型的工作被JAS接收发表
+2024.4.6: Paper on linear theoretical model of convective gravity waves accepted by JAS.
 {: .small}
-2024.4.3 恭喜陈子健有关海岸地形对降水日变化离岸传播的影响机制文章被JAS接收发表
+2024.4.3: Congratulations to Chen Zijian on JAS's acceptance of paper regarding coastal topography's influence on diurnal cycle of offshore precipitation propagation.
 {: .small}
 
 ## 2024-03
 
-2024.3.21 恭喜杨洪沛有关对流性重力波不对称性影响飑线不对称性的文章被MWR接收发表
+2024.3.21: Congratulations to Yang Hongpei on MWR's acceptance of paper on how convective gravity wave asymmetry affects squall line asymmetry.
 {: .small}
-2024.3-2024.12 博士生陈子健在澳大利亚墨尔本大学进行联合培养（合作导师：Claire Vincent）
+2024.3-2024.12: Ph.D. student Chen Zijian visited University of Melbourne, Australia (Co-supervisor: Claire Vincent).
 {: .small}
-2024.3.20 访问北京大学大气科学与海洋系，并做有关对流与重力波相互作用的讲座
+2024.3.20: Visited Department of Atmospheric and Oceanic Sciences at Peking University and gave a lecture on convection-gravity wave interaction.
 {: .small}
-2024.3.20 与贺沅平、范绍佳老师合作在SOTEN发表有关低空急流影响臭氧的文章
+2024.3.20: Published paper in SOTEN on low-level jet's impact on ozone, in collaboration with He Yuanping and Fan Shaojia.
 {: .small}
-2024.3.6 受邀参加深圳市气象局举办的预报员暴雨培训，做有关华南暖区暴雨的机制的讲座
+2024.3.6: Invited to give a lecture on mechanisms of South China warm sector heavy rainfall at Shenzhen Meteorological Bureau's forecaster training.
 {: .small}
 
 ## 2024-01
 
-2024.1.24 邀请北京大学聂绩副教授访问中大，并作报告
+2024.1.24: Invited Associate Professor Nie Ji from Peking University to visit SYSU and give a presentation.
 {: .small}
-2024.1.22 访问海南省气象局，并受邀作专题报告
+2024.1.22: Visited Hainan Meteorological Bureau and gave an invited special presentation.
 {: .small}
-2024.1.21 在海口参加AAS编委会
+2024.1.21: Attended AAS Editorial Board Meeting in Haikou.
 {: .small}
-2024.1.20 担任第十届IAMAS中国委员会委员
+2024.1.20: Appointed as member of the 10th IAMAS China Committee.
 {: .small}
-2024.1.17 恭喜罗雨涵有关河南特大暴雨的文章入选ESI hot paper
+2024.1.17: Congratulations to Luo Yuhan's paper on Henan extreme rainfall selected as ESI hot paper.
 {: .small}
-2024.1.12 开展小组年终总结会暨团建活动（徒步全程香山云道）
+2024.1.12: Conducted group year-end summary meeting and team building activity (hiking the entire Xiangshan Cloud Path).
 {: .small}
-2024.1.9 参加在江门举办的中国气象局热带气象重点创新团队建设研讨会暨华南季风强降水学术交流会
+2024.1.9: Participated in CMA Tropical Meteorology Key Innovation Team Building Seminar and South China Monsoon Heavy Precipitation Academic Exchange Meeting in Jiangmen.
 {: .small}
-2024.1.9 恭喜李翔顺利通过博士申请考核制面试（学术型博士）（与高斯老师合带）
+2024.1.9: Congratulations to Li Xiang for successfully passing the doctoral application assessment interview (Academic Ph.D.) (Co-supervised with Professor Gao Si).
 {: .small}
-2024.1.6 与美国马里兰大学张大林教授讨论交流
+2024.1.6: Academic discussion with Professor Da-Lin Zhang from University of Maryland, USA.
 {: .small}
-2024.1.3 荣获2023大气年度人物
+2024.1.3: Received 2023 Atmospheric Scientist of the Year Award.
 {: .small}
 
 ## 2023-12
 
-2023.12.25 受邀在中科院大气所LASG国家重点实验室作报告
+2023.12.25: Invited to give a presentation at the State Key Laboratory of Numerical Modeling for Atmospheric Sciences and Geophysical Fluid Dynamics (LASG).
 {: .small}
-2023.12.20 邀请北京大学杨邱助理教授访问中大，并作报告
+2023.12.20: Invited Assistant Professor Yang Qiu from Peking University to visit SYSU and give a presentation.
 {: .small}
-2023.12.19 本学期最后一次组内读书会顺利结束
+2023.12.19: Successfully concluded the semester's final group reading seminar.
 {: .small}
 
 ## 2023-11
 
-2023.11.27 受邀在南京气象科技创新研究院作学术讲座
+2023.11.27: Invited to give an academic lecture at Nanjing Meteorological Science and Technology Innovation Research Institute.
 {: .small}
-2023.11.27 受邀在南信大大气物理学院作学术讲座
+2023.11.27: Invited to give an academic lecture at School of Atmospheric Physics, Nanjing University of Information Science and Technology.
 {: .small}
-2023.11.25-26 受邀参加南信大气象灾害教育部重点实验室年会并作报告
+2023.11.25-26: Invited to attend and present at the annual meeting of Key Laboratory of Meteorological Disaster of Ministry of Education at Nanjing University of Information Science and Technology.
 {: .small}
-2023.11.11 受邀参加南京举办的天气学发展战略研讨会
+2023.11.11: Invited to participate in Weather Science Development Strategy Seminar in Nanjing.
 {: .small}
-2023.11.9 AAS线上论坛作“天气学领域文章撰写经验分享与思考"专题报告 （视频）
+2023.11.9: Gave an online AAS Forum presentation on "Experience Sharing and Thoughts on Writing Papers in Weather Science" (video).
 {: .small}
 
 ## 2023-10
 
-2023.10.30 访问河北省气象局，并作专题报告
+2023.10.30: Visited Hebei Meteorological Bureau and gave a special presentation.
 {: .small}
-2023.10.27-29 参加在雄安举办的首届全国大气边界层论坛，并作特邀报告
+2023.10.27-29: Participated in the First National Atmospheric Boundary Layer Forum in Xiong'an and gave an invited presentation.
 {: .small}
-2023.10.21 受邀参加广东省高等教育2023学术研讨会，并作特邀报告
+2023.10.21: Invited to participate in Guangdong Higher Education 2023 Academic Seminar and gave an invited presentation.
 {: .small}
 
 ## 2023-09
