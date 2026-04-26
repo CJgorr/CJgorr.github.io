@@ -23,7 +23,7 @@ Group photo in Yin Chuan, August 2023. (first row, left to right) Shimin Yang, Y
 
 
 [View Personal Profile]({{ "/people_du/" | relative_url }}){: .btn .btn--primary}
-[<i class="fas fa-download"></i> Download CV](https://atmos.sysu.edu.cn/sites/atmos.prod1.dpcms4.sysu.edu.cn/files/inline-files/CV_English_YuDu_2023_0.pdf){: .btn .btn--primary}
+[<i class="fas fa-download"></i> Download CV](https://atmos.sysu.edu.cn/atmos-prod1/sites/default/files/inline-files/CV_English_YuDu_2026Jan.pdf){: .btn .btn--primary}
 
 
 
