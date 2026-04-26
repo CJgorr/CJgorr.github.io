@@ -8,6 +8,10 @@ layouts_gallery:
 last_modified_at: 2023-12-09T11:59:26-04:00
 toc: true
 ---
+![foo](/assets/images/Group_2024_TeachersDay.jpg)
+Group photo in Zhu Hai, September 2024. 
+{: .small}
+
 ![foo](/assets/images/about/group_photo_1.jpeg)
 Group photo in Yin Chuan, August 2023. (first row, left to right) Shimin Yang, Yuhan Luo, Yu Du, Dong Fu, Xuan Zhou, Erqi Zheng. (second row, left to right) Yican Lin, Junying Fang, Zijian Chen and Hongpei Yang.
 {: .small}
