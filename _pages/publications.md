@@ -11,6 +11,88 @@ link: https://www.researchgate.net/profile/Yu-Du-48
 ---
 #Corresponding Author
 
+##2026
+
+Yang, H., Y. Du#, Z. Chen and X. Gao, 2026: Convection Initiation over Mountain Slopes in North China: Roles of Upslope Winds and Orographic Waves. Adv. Atmos. Sci., 43, 889–906, https://doi.org/10.1007/s00376-025-5589-9
+ [PDF] [Joint influence of gravity waves, cold pools, and valley winds on convection initiation over mountainous regions of North China] (first-author student)
+
+Yang, H., and Y. Du#, 2026: Distinct Convection Initiation Near and Far Ahead of an Idealized Squall Line. J. Atmos. Sci., 83, 151–168, https://doi.org/10.1175/JAS-D-25-0073.1
+ [PDF] [Roles of cold pools and gravity waves in convection initiation ahead of squall lines] (first-author student)
+
+Zheng, E., Y. Du#, Y. Luo, Q. Zhang, G. Chen, L. Su and H. Kong, 2026: Two types of low-level jets in China during the warm season: Observational climatology from radiosonde data. Atmos. Ocean. Sci. Lett. (in press) [Climatological statistics of two types of low-level jets in China based on radiosonde observations] (first-author student)
+
+Fu, D., Y. Du#, and H. Yang, 2026: The interaction between low-level jets and cold pools and their impacts on convection. J. Atmos. Sci. (in press) [Interaction between cold pools and low-level jets, extending RWK theory] (first-author student)
+
+Li, H., and Y. Du#, 2026: Complementary Error Structures of AI and Numerical Models in Forecasting Boundary-Layer Jets over the South China Sea. npj Clim Atmos Sci https://doi.org/10.1038/s41612-026-01419-3
+ [Complementary error characteristics between AI and NWP in forecasting low-level jets, and significantly improved forecasts through model fusion] (first-author student)
+
+Zhou, C., G. Chen#, Y. Du#, and L. Su, 2026: Double low-level jets over South China in the warm season: Diversity and impacts. J. Geophys. Res.: Atmospheres, 131, e2025JD045497 [PDF] [Diversity of double low-level jets] (first-author student)
+
+Wang, M., Wei, T., Lolli, S., Rocadenbosch, F., Salcedo-Bosch, A., Du, Y., ... & Xia, H., 2026: A comparative study of low-level jets in different climate regions in China using multi-site Doppler wind lidar observations. IEEE Trans. Geosci. Remote Sens., 64, 1–14
+
+Li, Z., Kong, H., Wong, C., Ao, C., & Du, Y., 2026: Exploring cross-regional and cross-variable transferability of a ResNet-based super-resolution method for ERA5 data. Sci. Rep., 16, 10421
+
+Lin, Y., Y. Du#, and J. Wang, 2026: Reconstructing Marine Boundary Layer Jets over the South China Sea Using Machine Learning, Geophys. Res. Lett. (under review)
+
+Guo, J., Y. Du#, Y. Chen, and Y. Luo, 2026: Diversity of Boundary Layer Jets over the South China Sea (under review)
+
+Z. Chen, Y. Du#, C. Vincent, E. Short, H. Yang, and G. Chen, 2026: What causes faster or slower offshore propagation of diurnal rainfall in New Guinea? J. Atmos. Sci. (under review)
+
+Z. Chen, Y. Du#, C. Vincent, E. Short, H. Yang, and G. Chen, 2026: Distinguishing Gravity Waves Forced by Land–Sea Thermal Contrast and Convection in Offshore Rainfall Propagation over New Guinea, J. Atmos. Sci. (under review)
+
+D. Fu, and Y. Du#, 2026: Impacts of Low-Level Jets and Nocturnal Stable Layers on Cold-Pool-Driven Atmospheric Bores. J. Atmos. Sci. (under review)
+
+##2025
+
+Du, Y.#, and S. Yi, 2025: The Relationship Scenarios Between Boundary Layer Jet and Coastal Heavy Rainfall during the Pre-Summer Rainy Season of South China, J. Meteor. Res., 39(1), 26–40, doi: 10.1007/s13351-025-4138-x [PDF] [Included in the Commemorative Volume “Centennial Progress in Atmospheric Science Research and Applications”]
+
+Yang, S., Y. Du#, B. Han#, C. Wu, and H. Kong, 2025: Microphysical characteristics of tropical cyclone Choiwan (2021) outer rainbands derived from polarimetric radar observations on a research vessel. Geophys. Res. Lett., 52, e2024GL112557. https://doi.org/10.1029/2024GL112557
+ [PDF] [Microphysical characteristics of offshore typhoon observed by research vessel radar] (first-author student)
+
+Mai, C., Y. Du#, M. Li#, G. Chen, L. Su, C. Li, D. Fu, and H. Kong, 2025: Cold Pools Detected by a 356-m Meteorological Tower in a Monsoon Coastal Region. Adv. Atmos. Sci., 42, 2235–2246, https://doi.org/10.1007/s00376-025-4446-1
+ [PDF] [Vertical structure of cold pools in monsoon regions] (first-author student)
+
+Luo, Y., and Y. Du#, 2025: Moisture Sources and Sinks of Low-Level Jets in South China: A Backward and Forward Trace Model Approach, J. Climate, 38, 2641–2658, https://doi.org/10.1175/JCLI-D-24-0200.1
+ [PDF] [Differences in moisture transport between two types of low-level jets] (first-author student)
+
+Yang H., Y. Du#, and J. Sun, 2025: The Merger of a Supercell and Squall Line in the Great Plains. Part I: Initiation of the Supercell. J. Geophys. Res.: Atmospheres, 130, e2024JD042393. https://doi.org/10.1029/2024JD042393
+ [PDF] [Mechanisms of double low-level jets in the U.S. Great Plains] (first-author student)
+
+Yang H., Y. Du#, and J. Sun, 2025: The Merger of a Supercell and Squall Line in the Great Plains. Part II: Formation of a Bow Echo. J. Geophys. Res.: Atmospheres, 130, e2024JD042394. https://doi.org/10.1029/2024JD042394
+ [PDF] [New mechanism of rear-inflow development] (first-author student)
+
+Su, L.#, L. Bai, S. Zhang, G. Chen, and Y. Du#, 2025: Day-night and land-sea contrasts of upscale convective growths at coastal South China. J. Geophys. Res.: Atmospheres, 130, e2024JD042643. https://doi.org/10.1029/2024JD042643
+ [PDF] [Upscale growth mechanisms of convection over South China coastal regions]
+
+Chen Z., Y. Du#, C. Vincent, E. Short, and H. Yang, 2025: Influence of Coastal Topography on Offshore Diurnal Rainfall Propagation: A Linear Gravity Waves Model Approach, J. Atmos. Sci., 82, 1911–1927, https://doi.org/10.1175/JAS-D-24-0214.1
+ [PDF] [Theoretical model of orographic influence on offshore rainfall propagation] (first-author student)
+
+Zhang J., and Y. Du#, 2025: Revisiting the Diurnal Pulses of Tropical Cyclones Over the Northwest Pacific Ocean. Geophys. Res. Lett., 52, e2025GL116554. https://doi.org/10.1029/2025GL116554
+ [PDF] [Re-examination of diurnal variability in tropical cyclones] (first-author student)
+
+Lin Y., and Y. Du#, 2025: Sensitivity of Coastal Rainfall Simulation to the Assimilation of Wind Profiles near the Marine Boundary Layer Jet: An Observing System Simulation Experiment. J. Geophys. Res.: Atmospheres, 130, e2025JD044106. https://doi.org/10.1029/2025JD044106
+ [PDF] [Sensitivity of South China coastal rainfall to assimilating wind profiles near SCS BLJ] (first-author student)
+
+Fu D., Y. Du#, C. Mai, M. Li, and C. Li, 2025: Impact of Boundary Layer Jets on Cold Pool Characteristics Observed From the 356-m High Shenzhen Meteorological Tower. J. Geophys. Res.: Atmospheres, 130, e2024JD042926. https://doi.org/10.1029/2024JD042926
+ [PDF] [Influence of low-level jets on cold pools] (first-author student)
+
+Su, L., J. Hu, Y. Du, J. Li, and G. Chen, 2025: Boundary-Layer and Low-Level Moisture Fluxes during Low-Level Jet Events in South China and Their Relationship with Early Summer Rainfall. J. Climate, 38, 1691–1713, https://doi.org/10.1175/JCLI-D-23-0561.1
+ [PDF]
+
+Cao, D., Chen, X., Chen, D., Du, Y., Luo, Y., Hu, Y., ... & Chen, F., 2025: Two types of heavy precipitation in the southeastern Tibetan Plateau. Science Bulletin, 70(5), 748–755 [PDF]
+
+Pang, N., Kong, H., Wong, C., Li, Z., Du, Y., & Leung, J. C.-H., 2025: A CNN-Based Downscaling Model for Macau Temperature Prediction Using ERA5 Reanalysis Data. Applied Sciences, 15(10), 5321. https://doi.org/10.3390/app15105321
+ [PDF]
+
+Z. Li; Kong, H.; Wang, Y.; Wong, C.-S.; Du, Y.; Wang, P., 2025: A ResNet-Based Super-Resolution Approach for Constructing a High-Resolution Temperature Dataset from ERA5 Reanalysis. Applied Sciences, 15, 5013. https://doi.org/10.3390/app15095013
+ [PDF]
+
+Zhu, S., Tang, G., Yan, S., Du, Y., Xu, Y., Zhang, M., et al., 2025: A new approach to identifying and analyzing precipitation events and their typical lifecycles over the conterminous United States. Geophys. Res. Lett., 52, e2025GL115640. https://doi.org/10.1029/2025GL115640
+ [PDF]
+
+杜宇,简茂球,卫俊宏,等.数理为基础的专业课程教学创新与实践——以动力气象学为例[J].高教学刊,2025,11(23):39-42.DOI:10.19980/j.CN23-1593/G4.2025.23.010. [in Chinese]
+Du, Yu, Jian Maoqiu, Wei Junhong, et al.: Teaching innovation and practice in mathematics-based on core courses—A case study of dynamic meteorology. Journal of Higher Education, 2025, 11(23): 39–42. DOI:10.19980/j.CN23-1593/G4.2025.23.010. 
+
 ## 2024
 
 Du, Y.#, R. Rotunno, Z. Chen, H. Yang, 2024: A Linear Theory for Periodic Convectively Forced Gravity Waves near a Coastline, J. Atmos. Sci., 81, 1271–1288, https://doi.org/10.1175/JAS-D-23-0173.1. [PDF] [Linear Theoretical Model of Convective Gravity Waves]
