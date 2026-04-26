@@ -141,6 +141,10 @@ sidebar-sample:
 sidebar-news:
   - title: "Timeline"
     children:
+      - title: "2026"
+        url: /news/#2026
+      - title: "2025"
+        url: /news/#2025
       - title: "2024-10"
         url: /news/#2024-10
       - title: "2024-09"
@@ -208,6 +212,10 @@ sidebar-news:
 sidebar-pub:
   - title: "Years"
     children:
+      - title: "2026"
+        url: /publications/#2026
+      - title: "2025"
+        url: /publications/#2025
       - title: "2024"
         url: /publications/#2024
       - title: "2023"

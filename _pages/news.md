@@ -8,10 +8,226 @@ sidebar:
 toc: false
 classes: wide
 ---
+
+## 2026
+
+2026.4.17 Attended the Frontier Chengdu Symposium on Atmospheric Sciences and gave an invited talk in Chengdu.
+{: .small}
+
+2026.4.12 Congratulations to Li Haimin on the acceptance of the paper on AI and NWP forecasting of low-level jets in npj Climate and Atmospheric Science.
+{: .small}
+
+2026.4.13 Tao Dandan, Chen Jie, and Yang Bolei from Nanjing University visited Sun Yat-sen University and gave invited talks.
+{: .small}
+
+2026.4.11 Gave an invited talk at the Geoscience Youth Forum in Guangzhou.
+{: .small}
+
+2026.3.28 Congratulations to Fu Dong on the acceptance of the paper on the interaction between low-level jets and cold pools in Journal of the Atmospheric Sciences.
+{: .small}
+
+2026.3.19 Congratulations to Zhou Chunling on the acceptance of the paper on the diversity of double low-level jets in Journal of Geophysical Research.
+{: .small}
+
+2026.3.27 The paper on multi-factor synergistic mechanisms of convection in North China heavy rainfall was selected as the cover article of Advances in Atmospheric Sciences ([Link](https://www.iapjournals.ac.cn/aas/article/doi/10.1007/s00376-025-5589-9)).
+{: .small}
+
+2026.2.28 Congratulations to Zheng Erqi on the acceptance of the paper on observational characteristics of two types of low-level jets in China in Atmospheric and Oceanic Science Letters.
+{: .small}
+
+2026.2.3 Gave a thematic presentation at the Second Institute of Oceanography.
+{: .small}
+
+2026.1.31 Attended the National Atmospheric Physics Academic Symposium and gave an invited talk.
+{: .small}
+
+2026.1.25 Organized the Subcommittee on Mesoscale Meteorology and High-Impact Weather of IAMAS-07 at the Sixth China Geodesy and Geophysics Conference, and gave a presentation.
+{: .small}
+
+2026.1.24 Attended the CNC-IAMAS 2025 Annual Meeting.
+{: .small}
+
+2026.1.18 Attended and gave an invited talk at the State Key Laboratory of Surface Processes and Natural Hazards Risk Prevention and Control.
+{: .small}
+
+2026.1.9 Gave a thematic presentation at the Qingdao Branch of the Institute of Atmospheric Physics.
+{: .small}
+
+2026.1.8 Attended the Annual Meeting of the Key Laboratory of Marine Environment and Numerical Simulation (Ministry of Natural Resources) and gave an invited talk.
+{: .small}
+
+2026.1.5 Gave a thematic presentation at Ocean University of China.
+{: .small}
+
+## 2025
+
+2025.12.23 Congratulations to Yang Hongpei on the acceptance of the paper on convection initiation ahead of squall lines in Journal of the Atmospheric Sciences.
+{: .small}
+
+2025.12.18 Gave a thematic presentation at National University of Defense Technology.
+{: .small}
+
+2025.12.11 Congratulations to Yang Hongpei on the acceptance of the paper on convection initiation in North China in Advances in Atmospheric Sciences.
+{: .small}
+
+2025.12.3 Attended the Second Tropical Meteorology Symposium and gave an invited talk.
+{: .small}
+
+2025.11.22 Attended the annual meeting of a National Key R&D Program project in Tianjin.
+{: .small}
+
+2025.11.21 Attended the 2025 National Numerical Weather Prediction Technology Symposium and gave a presentation.
+{: .small}
+
+2025.11.19 Met with supervisor Prof. Richard Rotunno at Nanjing University.
+{: .small}
+
+2025.11.17 Attended the National Graduate Forum on Atmospheric Sciences at Sun Yat-sen University and gave a presentation. PhD students Lin Yican and Fu Dong, and master students Shao Jiacheng and Li Haimin gave oral or poster presentations. PhD student Yang Hongpei shared conference experience. Lin Yican, Fu Dong, and Li Haimin received Outstanding Presentation Awards.
+{: .small}
+
+2025.11.15–16 Attended the Third National Boundary Layer Workshop and gave an invited keynote talk.
+{: .small}
+
+2025.11.14 Gave a keynote talk at the International Conference on Atmospheric Environment, Extreme Weather, and Health in Hong Kong.
+{: .small}
+
+2025.11.11 Delivered a lecture “Heavy rainfall and convection” for the Southeast Asia winter training program.
+{: .small}
+
+2025.11.4–5 Visited Chengdu University of Information Technology and Plateau Institute, and gave lectures.
+{: .small}
+
+2025.10.22–24 Attended the 36th Annual Meeting of the Chinese Meteorological Society in Nanjing, organized a session, and gave an invited talk. Postdoctoral researcher Li Zhenghui gave an oral presentation. Congratulations to graduate student Luo Yuhan on receiving the Outstanding Presentation Award.
+{: .small}
+
+2025.10.20 Prof. Feng Jie from Fudan University was invited to visit the institute and gave a thematic talk.
+{: .small}
+
+2025.10.18–19 Attended the Ocean System Science Conference and gave a presentation.
+{: .small}
+
+2025.10.17 Attended the Symposium on Weather and Climate Change and Prediction and gave a presentation.
+{: .small}
+
+2025.10.14–15 Prof. Fu Hao from Nanjing University was invited to visit the institute and gave a thematic talk and group discussion.
+{: .small}
+
+2025.10.11–12 Attended the 12th South China Sea Annual Meeting in Shenzhen and gave a presentation.
+{: .small}
+
+2025.9.22–26 Invited to the Fudan International Symposium on Atmospheric Sciences and gave a keynote talk; also gave invited lectures at Fudan University, Shanghai Typhoon Institute, and Shanghai Jiao Tong University.
+{: .small}
+
+2025.9.18 Congratulations to PhD student Yang Hongpei and master student Zhang Jinjing for receiving National Scholarships.
+{: .small}
+
+2025.9.7–9.12 Attended the European Meteorological Society Annual Meeting (EMS) and gave an oral presentation.
+{: .small}
+
+2025.9.3 Congratulations to Fu Dong on the acceptance and publication of the paper on low-level jets influencing cold pools in Journal of Geophysical Research.
+{: .small}
+
+2025.8.23 Congratulations to Luo Yuhan, Fu Dong, and Yang Hongpei for receiving Outstanding Oral Presentation Awards, and Lin Yican for receiving Outstanding Poster Award at the 7th National Mesoscale Meteorology Symposium.
+{: .small}
+
+2025.8.21–23 Attended the National Mesoscale Meteorology Conference in Datong and gave an invited talk. Group members Luo Yuhan (graduated), Chen Zijian, Yang Hongpei, Fu Dong, Lin Yican, Shao Jiacheng, Liu Zhixing, and Li Haimin gave oral or poster presentations.
+{: .small}
+
+2025.8.18–19 Attended the Cross-Strait Typhoon, Rainstorm, and Climate Symposium in Yanji and gave a presentation.
+{: .small}
+
+2025.8.14–16 Attended the Nonlinear Atmosphere–Ocean Science Symposium in Hohhot and gave an invited talk.
+{: .small}
+
+2025.8.5–7 Attended the CPCM Symposium in Hong Kong and gave a presentation.
+{: .small}
+
+2025.8.2 Congratulations to Zhang Jinjing for receiving the AOGS Best Student Poster Award.
+{: .small}
+
+2025.7.27–8.2 Attended the AOGS meeting in Singapore and gave oral presentations. Group members Lin Yican, Rao Yifeng, Zheng Erqi, Guo Jiabao, and Zhou Chunling gave oral presentations, and Zhang Jinjing presented a poster.
+{: .small}
+
+2025.7.20–25 Attended the BACO International Conference in South Korea and gave an invited 30-minute talk in the mesoscale meteorology session.
+{: .small}
+
+2025.7.2–4 Visited Lanzhou University and gave an academic talk; served as advisory expert for the Atmospheric Sciences Branch of the Teacher Development Center at Lanzhou University.
+{: .small}
+
+2025.6.29 Congratulations to Zhang Jinjing on the publication of the paper on tropical cyclone diurnal variability in Geophysical Research Letters.
+{: .small}
+
+2025.6.23–27 Attended the AMS Mesoscale Processes Conference in Boise and gave oral presentations. Students Yang Hongpei and Fu Dong gave oral presentations, and Yang Shimin presented a poster.
+{: .small}
+
+2025.6.23 Congratulations to Chen Zijian on the publication of the theoretical study on orographic influence on offshore rainfall propagation in Journal of the Atmospheric Sciences.
+{: .small}
+
+2025.6.21 Received the award “The Most Attractive Teacher in My Heart”.
+{: .small}
+
+2025.6.4 Completed the National Natural Science Foundation Youth Project (Category B) with excellent evaluation.
+{: .small}
+
+2025.6.2 Congratulations to Yang Hongpei on the publication of Part I and Part II of the study on bow echo formation via convective system merger in Journal of Geophysical Research.
+{: .small}
+
+2025.5.15 Congratulations to Chen Zijian and Luo Yuhan for successfully defending their PhD dissertations, and Zhou Xuan for successfully defending her master’s thesis.
+{: .small}
+
+2025.4.24 Invited lecture on convection and cold pool interactions at Nanjing University of Information Science and Technology.
+{: .small}
+
+2025.4.22 Congratulations to Yang Hongpei on the acceptance of the paper on a new mechanism of bow echo formation via supercell–squall line merger in Journal of Geophysical Research.
+{: .small}
+
+2025.4.22–23 Attended the Annual Meeting of the Key Laboratory of Meteorological Disasters, Ministry of Education at Nanjing University of Information Science and Technology and gave a presentation.
+{: .small}
+
+2025.4.21 Invited lecture on convection–gravity wave interactions at Nanjing University.
+{: .small}
+
+2025.4.18–20 Organized and attended the First Future Atmospheric Science Forum in Beijing as Vice Chair.
+{: .small}
+
+2025.4.12 Attended the kickoff and project proposal meeting of the National Key R&D Program “Adaptive Observation and Forecasting Technology for Heavy Precipitation in the Beijing–Tianjin–Hebei Region” and reported on Project 3.
+{: .small}
+
+2025.4.10 Congratulations to Luo Yuhan on the acceptance of the paper on moisture transport by low-level jets in Journal of Climate.
+{: .small}
+
+2025.3.26–29 Attended the Cross-Strait Typhoon, Rainstorm, and Climate Symposium at National Taiwan University and gave an invited talk.
+{: .small}
+
+2025.3.17 Congratulations to Mai Chuying on the acceptance of the paper on observational vertical structure of cold pools in Advances in Atmospheric Sciences.
+{: .small}
+
+2025.3.11 Attended the WWRP PDEF working group meeting online.
+{: .small}
+
+2025.3.10 Prof. Zhang Jiankai from Lanzhou University visited Sun Yat-sen University.
+{: .small}
+
+2025.2.21 Visited National University of Defense Technology and gave a presentation.
+{: .small}
+
+2025.2.14 Appointed as a member of the WMO World Weather Research Programme (WWRP) Working Group on Predictability, Dynamics and Ensemble Forecasting (PDEF) (link).
+{: .small}
+
+2025.2.20 Visited National University of Defense Technology and gave a thematic talk.
+{: .small}
+
+2025.1.9 Visited Wuhan Heavy Rain Institute and gave a thematic talk.
+{: .small}
+
+2025.2.10 Congratulations to Yang Shimin on the acceptance of the study on offshore typhoon microphysical characteristics observed by research vessel radar in Geophysical Research Letters.
+{: .small}
+
 ## 2024-10
 
 2024.10.29: Received approval for the General Program of Natural Science Foundation from Guangdong Basic and Applied Basic Research Foundation.
 {: .small}
+
 2024.10.23: Invited to give an academic presentation on gravity waves at the National Meteorological Center.
 {: .small}
 2024.10.22: Invited to give an academic presentation on cold pools at the Institute of Atmospheric Physics, Chinese Academy of Sciences.
