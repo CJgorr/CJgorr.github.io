@@ -5,7 +5,7 @@ layouts_gallery:
   - url: /assets/images/about/about-page-1.jpeg
     image_path: assets/images/about/about-page-1.jpeg
     alt: "placeholder image 1"
-last_modified_at: 2023-12-09T11:59:26-04:00
+last_modified_at: 2026-06-17T11:59:26-04:00
 toc: true
 ---
 ![foo](/assets/images/Group_2024_TeachersDay.jpg)
