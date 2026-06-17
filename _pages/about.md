@@ -16,8 +16,6 @@ Group photo in Zhu Hai, September 2024.
 Group photo in Yin Chuan, August 2023. (first row, left to right) Shimin Yang, Yuhan Luo, Yu Du, Dong Fu, Xuan Zhou, Erqi Zheng. (second row, left to right) Yican Lin, Junying Fang, Zijian Chen and Hongpei Yang.
 {: .small}
 
-{% include gallery id="layouts_gallery" caption="Group photo in Hang Zhou, August 2022. (left to right) Yuhan Luo, Junying Fang, Chuying Mai, Hongpei Yang, Yu Du, Yian Shen, Dong Fu, Xuan Zhou and Zijian Chen." %}
-
 
 ## Dr. Yu Du（杜宇）  
 **Professor, Ph.D. Supervisor**  
@@ -155,51 +153,3 @@ Graduation destination: Further education at National University of Defense Tech
 **张津菁 Jinjing Zhang**      
 Undergraduate, 2020-     
 {: .small}     
-
-## 3. Group Activities
-
-2023.9.17   
-Singing Karaoke and having dinner together
-{: .small} 
-2023.2.16   
-Taking a half-day trip to Qi’ao Island, enjoying delicious farm-to-table fare, barbecuing on the beach and playing board games
-{: .small} 
-2022.9.3   
-Playing bowling and dining together
-{: .small} 
-2022.8.18   
-Dining together after the 4th National Mesoscale Meteorology Forum in Hangzhou (along with the former member Yian Shen)
-{: .small} 
-2022.5.2   
-Making dumplings at home, playing board games and barbecuing outside
-{: .small} 
-2022.6.24  
-Farewell party for the graduates
-{: .small} 
-2022.2.14   
-Playing an escape room game and dining together
-{: .small} 
-2021.12.20   
-Farewell party for Bin Han
-{: .small} 
-2021.9.1  
-Dining together
-{: .small} 
-2021.6.26  
-Farewell party for the graduates
-{: .small} 
-2021.2.25  
-Dining together 
-{: .small} 
-2020.12.17  
-City walk along Lovers’ Road and then dining together
-{: .small} 
-2022.11.25  
-Dining together 
-{: .small} 
-2020.9.10  
-Dining together 
-{: .small} 
-2020.1.11  
-Playing an escape room game and dining together
-{: .small} 
